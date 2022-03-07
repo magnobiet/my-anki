@@ -2,7 +2,7 @@
 
 # env EDITOR=vim crontab -e
 
-# 0 12 * * *  cd ~/Library/Application Support/Anki2 && ./backup.sh >> backup.log 2>&1
+# 0 12 * * *  cd ~/Library/Application\ Support/Anki2 && ./backup.sh >> backup.log 2>&1
 # │  │ │ │ │
 # │  │ │ │ └──── day of week  (0 -  6) (0 to 6 are Sunday to Saturday)
 # │  │ │ └────── month        (1 - 12)
