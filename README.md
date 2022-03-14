@@ -106,7 +106,7 @@ hr::before {
 
 ### File Locations
 
-- macOS `~/Library/Application Support/Anki2`
+- macOS `~/Library/Application\ Support/Anki2`
 - Linux `~/.local/share/Anki2`
 - Windows `%APPDATA%\Anki2`
 
