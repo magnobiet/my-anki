@@ -100,7 +100,7 @@ hr::before {
 - [More Decks Stats and Time Left](https://ankiweb.net/shared/info/1556734708)
 - [More Overview Stats 2.1](https://ankiweb.net/shared/info/738807903)
 - [Syntax Highlighting for Code](https://ankiweb.net/shared/info/1463041493)
-- [Review Heatmap](https://github.com/glutanimate/review-heatmap>)
+- [Review Heatmap](https://github.com/glutanimate/review-heatmap)
 
 ## [Backup](https://docs.ankiweb.net/files.html#backups)
 
